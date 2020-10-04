@@ -1,0 +1,3 @@
+com\jrsf\Customer.class
+com\jrsf\KafkaAvroProducer.class
+com\jrsf\Customer$Builder.class

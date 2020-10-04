@@ -1,0 +1,13 @@
+{
+  "type" : "record",
+  "namespace" : "com.jrsf",
+  "name" : "Customer",
+  "fields" : [
+    { "name" : "idPainel" , "type" : "int" },
+    { "name" : "idEventLog" , "type" : "int" },
+    { "name" : "eventState" , "type" : "string" },
+    { "name" : "eventDescription" , "type" : "string" },
+    { "name" : "painelDescription" , "type" : "string", "default": "NA" },
+    { "name" : "eventTimestamp" , "type" : "string" }
+  ]
+}
